@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/expenses_react/static/css/main.4ce50a27.css",
-    "main.js": "/expenses_react/static/js/main.dfa0d40f.js",
+    "main.js": "/expenses_react/static/js/main.6b692dff.js",
     "static/media/Triodion-Regular.ttf": "/expenses_react/static/media/Triodion-Regular.10698b02d4aa235731f8.ttf",
     "index.html": "/expenses_react/index.html",
     "main.4ce50a27.css.map": "/expenses_react/static/css/main.4ce50a27.css.map",
-    "main.dfa0d40f.js.map": "/expenses_react/static/js/main.dfa0d40f.js.map"
+    "main.6b692dff.js.map": "/expenses_react/static/js/main.6b692dff.js.map"
   },
   "entrypoints": [
     "static/css/main.4ce50a27.css",
-    "static/js/main.dfa0d40f.js"
+    "static/js/main.6b692dff.js"
   ]
 }
